@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Redirecting...</title>
+  <script>
+    // Get the user's preferred language from the browser
+    var userLanguage = navigator.language || navigator.userLanguage;
+    
+    // if window.location.pathname starts with docs, insert locale to the path
+    if (window.location.pathname.startsWith('/docs')) {
+      let restPath = window.location.pathname.substring(5);
+      if (userLanguage.startsWith('zh')) {
+        window.location.pathname = '/docs/zh-CN' + restPath;
+      } else {
+        window.location.pathname = '/docs/en' + restPath;
+      }
+    }
+
+    // insert an p element in body
+    var p = document.createElement('p');
+    // change /docs/en/help to window.location.pathname
+    //  string interpolation
+    p.innerHTML = `If you are not redirected, <a href="${window.location.pathname}">click here</a>.`;
+    document.body.appendChild(p);
+
+  </script>
+</head>
+<body>
+</body>
+</html>
