@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: plain_content
 title: Privacy Policy
-include_in_header: false
+include_in_footer: true
 ---
 
 **Last updated**  
