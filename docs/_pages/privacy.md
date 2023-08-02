@@ -17,7 +17,6 @@ When you use the App, we may collect certain personal information, such as your 
 
 ### 1.2 Usage Data
 In addition to personal information, we may also collect anonymous usage data about how you interact with the App. This may include information about the features you use, the pages you visit, and the actions you take within the App. This data is collected to improve the functionality and user experience of the App.
-
 <br>
 
 ## Use of Information
