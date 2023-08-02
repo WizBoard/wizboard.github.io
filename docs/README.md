@@ -109,5 +109,9 @@ I'd love to see the sites you create using this little tool.
 ## Author
 [Emil Baehr](https://emilbaehr.com/)
 
+## Tailwind
+`npm install -D tailwindcss`  
+`npx tailwindcss -i ./tailwind_input.css -o ./assets/css/tailwind.css --watch`
+
 ## License
 [MIT License](LICENSE)
