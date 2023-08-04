@@ -4,7 +4,7 @@
     {% if file.path contains 'assets/screenshot/' %}
         <script>
             $(function() {
-                $(".iphoneScreen").attr('src', '{{ site.github.baseurl }}{{ file.path }}');
+                $(".iphoneScreen").attr('src', '{{ file.path }}');
                 $(".iphoneScreen").removeClass("hidden");
                 console.log("{{ file.path }}");
             });
@@ -22,7 +22,7 @@
             <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
-                    $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/mp4">');
+                    $(".screenvideo").append('<source src="{{ file.path }}" type="video/mp4">');
                     console.log("{{ file.path }}");
                 });
             </script>
