@@ -10,7 +10,7 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/icon_512x512.jpeg                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/icon_512.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : WizBoard                                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : An AI-native Keyboard and Client App
@@ -35,42 +35,41 @@ mastodon_link                             :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : AI-native Mobile Keyboard
+    description                           : Enjoy the power of AI <b>anywhere</b> you can type.
+    fontawesome_icon_name                 : keyboard
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Spell Centered Design
+    description                           : The keyboard and the main app is designed around the concept of prompt or <b>Spells</b>, which are AI-powered text transformation tools.
+    fontawesome_icon_name                 : wand-magic-sparkles
+
+  - title                                 : Text Transformation
+    description                           : Translation, summarization, paraphrase, and more.
+    fontawesome_icon_name                 : pencil
+    
+  - title                                 : Creative Writing
+    description                           : Emails, essays, social media posts, anything you can think of.
+    fontawesome_icon_name                 : pen-to-square
+  
+  - title                                 : Awesome Spell Gallery
+    description                           : Hand-picked spells that are powerful and easy to use.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Spell Editing
+    description                           : Custom spell creation and editing with features like <b>parameterization</b>, <b>example messages</b>. 
+    fontawesome_icon_name                 : hammer
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Markdown Support
+    description                           : Suppports <b>Markdown/Code Highlight/LaTex</b> rendering.
+    fontawesome_icon_name                 : bold
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : iCloud Sync
+    description                           : Sync your data across all your devices.
+    fontawesome_icon_name                 : sync
+  
+  - title                                 : Various Subscriptions Plans
+    description                           : Pro, Family, and BYOK plans, with <b>free trial</b> for all.
+    fontawesome_icon_name                 : dollar-sign
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
