@@ -2,6 +2,8 @@
 layout: plain_content
 title: WizBoard User Manual
 ---
+# Setup Keyboard
+
 * Open system settings and select WizBoard app
 * Select preferred language
     * English
