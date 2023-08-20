@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/icon_512.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : WizBoard                                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : An AI-native Keyboard and Client App
+app_description                           : An AI Keyboard and Chat App
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -47,20 +47,20 @@ features                                  :
     description                           : Experience the convenience of having a personal writing assistant in your pocket. Our app supports you across various writing tasks, from emails and documents to social media posts and more.
     fontawesome_icon_name                 : pencil
     
-  - title                                 : Time-Saving Efficiency
-    description                           : Boost your productivity by saving time and effort in writing tasks. Our app provides instant prompts, eliminating the need for lengthy brainstorming sessions and revisions.
-    fontawesome_icon_name                 : pen-to-square
+  - title                                 : Ultimate Productivity Tool
+    description                           : Boost your productivity by utilizing an army of AI-powered tools. The capabilities is only limited by your imagination.
+    fontawesome_icon_name                 : screwdriver-wrench
   
   - title                                 : Awesome Spell Gallery
     description                           : Access a vast library of spells designed for different scenarios such as translation, travel planning, and more. Never struggle with writer's block again.
     fontawesome_icon_name                 : star
 
-  - title                                 : Spell Editing
-    description                           : Custom spell creation and editing with features like <b>parameterization</b>, <b>example messages</b>. 
+  - title                                 : Advanced Spell Editing
+    description                           : Custom spell creation and editing with powerful features like <b>parameterization</b>, <b>example messages</b>.
     fontawesome_icon_name                 : hammer
 
-  - title                                 : Customization Options
-    description                           : Tailor the app to your preferences with customizable settings. Suppports <b>Markdown/Code Highlight/LaTex</b> rendering.
+  - title                                 : Multi-format Message Rendering
+    description                           : Suppports <b>Markdown/Code Highlight/Inline LaTex</b> rendering.
     fontawesome_icon_name                 : bold
 
   - title                                 : iCloud Sync
