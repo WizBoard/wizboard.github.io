@@ -10,7 +10,12 @@
     if (window.location.pathname.startsWith('/docs')) {
       let restPath = window.location.pathname.substring(5);
       if (userLanguage.startsWith('zh')) {
-        window.location.pathname = '/docs/zh-CN' + restPath;
+        // if userLanguage is tranditional chinese, redirect to /docs/zh-Hant
+        if (userLanguage.match(/tw|hk|hant/i)) {
+          window.location.pathname = '/docs/zh-Hant' + restPath;
+        } else {
+          window.location.pathname = '/docs/zh-CN' + restPath;
+        }
       } else {
         window.location.pathname = '/docs/en' + restPath;
       }
