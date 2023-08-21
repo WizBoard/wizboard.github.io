@@ -2,13 +2,15 @@
 layout: plain_content
 title: WizBoard User Manual
 ---
-# Setup Keyboard
+# 設置鍵盤
 
-* Open system settings and select WizBoard app
-* Select preferred language
-    * English
-    * Chinese, Simplified
-* Tap Keyboards
-    * *Enable WizBoard keyboard*
-    * *Allow full access* : We understand you may have concerns about privacy, so we want to reassure you: while enabling Allow Full Access can technically allow a keyboard to send what you type over the internet, WizBoard DOES NOT record keystrokes or store your data anywhere. You data is only sent to be processed by the AI, and only when you ask for it.
-Your privacy is paramount to us, and we've designed WizBoard with a strong commitment to protecting it. Please also check our Privacy Policy : http://wizboard.github.io/privacy
+* 在WizBoard裡，點擊 **設置 → 通用 → 系統設置**
+![App Settings](/assets/help/app_settings.jpg)
+![App Settings System](/assets/help/app_settings_system.jpg)
+* 點擊 **鍵盤**
+![Select Keyboards](/assets/help/click_keyboard_zh.gif)
+* 啟用 **WizBoard** 和 **允許完全訪問**
+![Select Keyboards](/assets/help/enable_keyboard_zh.gif)
+
+**允許完全訪問** 是iOS要求的，以便讓我們的鍵盤訪問AI服務。WizBoard不會記錄按鍵或將您的數據存儲在任何地方。您的數據僅在您要求時才發送到AI進行處理。
+詳細信息請參考我們的隱私政策：http://wizboard.github.io/privacy
