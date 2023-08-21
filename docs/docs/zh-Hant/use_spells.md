@@ -2,20 +2,29 @@
 layout: plain_content
 title: WizBoard User Manual
 ---
-# Use Spells
+# 使用魔法指令
 
-Spells offer specialized magic tailored to each of your needs. They're accessible both within the main WizBoard application and its associated keyboard.
+WizBoard是基於**魔法指令**的概念進行設計的。它是一種AI驅動的工具，可以幫助您完成各種任務。您可能已經聽說過**Prompt Engineering**，這是一種允許您使用AI模型解決問題的技術。**魔法指令**是這種技術的抽象，但更靈活和強大。
 
-* **Main App**
-    * In the *Gallery* section, search for your preferred spells and add them to the *Spells* tab by tapping on the "+" icon of each spell.
-    * Within the *Spells* tab, select a spell to engage and interact, discovering its magic as you pose questions.
+魔法指令可以在WizBoard主應用和鍵盤中訪問。雖然您可以在鍵盤中使用魔法指令，但您也可以在主應用中使用它們。在主應用中你也可以對它們進行自定義和發現新的魔法指令。
 
-* **Keyboard**
-    * Wherever you're inputting text via a keyboard (like in messaging apps, emails, notes, etc.), press and hold the globe symbol and choose WizBoard. If it's not visible, kindly consult the [setup guide](setup_keyboard) for keyboard configuration.
-    * In the keyboard's *Spells* section, you'll see all the personalized spells.
-    * Choose a spell and click the magic wand icon in the top right. The current content in the input field will serve as the input for the spell. Beneath the spell title, you'll find:
-        * (Optional) Further spell customizations (like setting a target language for translation).
-        * Options for displaying the spell's results:
-            * *None*: Displays the spell result within the keyboard frame.
-            * *Rewrite*: Replaces content in the input field with the spell result.
-            * *Append*: Adds the spell result to the existing content in the input field.
+* **主應用**
+    * 在底部點擊 *Gallery* 部分，上下滾動並點擊 *Show All* 來找到適合您的完美魔法指令。
+    * 您也可以在頂部的搜索欄中輸入魔法指令名稱。
+    * 一旦確定了選擇的魔法指令，點擊所選魔法指令的 "+" 圖標。您也可以點擊魔法指令本身，然後點擊 *Add* 將其添加到您的魔法指令中。
+    ![Gallery](/assets/help/gallery_en.jpg)
+    * 在底部點擊 *Spells* 部分，您將看到您添加的所有魔法指令。現在點擊一個魔法指令來打開它，現在按照說明來說魔法吧。準備好沉浸在一個充滿灼熱的火花、迷人的魅力和純粹的喜悅的世界中吧，這些魔法將在您的指尖展開。
+    ![main_app_spell](/assets/help/main_app_spell_en.jpg)
+
+* **鍵盤**
+    * 無論您在哪裡通過鍵盤輸入文本（例如在消息應用、電子郵件、筆記等），長按地球符號並選擇 WizBoard。如果看不到，請查看鍵盤配置的[設置指南](setup_keyboard).
+    * 在鍵盤的魔法指令部分，您將看到所有個性化的魔法指令。
+    * 選擇一個魔法指令，然後點擊右上角的魔法杖圖標。輸入字段中的當前內容將作為魔法指令的輸入。在魔法指令的標題下，您會找到：
+        * 參數（例如設置翻譯的目標語言）。
+        * 魔法指令結果操作選項：
+            * 無：在鍵盤框架內顯示魔法指令的結果。
+            * 重寫：用魔法指令的結果替換輸入字段中的內容。
+            * 追加：將魔法指令的結果添加到輸入字段中的現有內容。
+    <video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="/assets/help/use_keyboard.mp4" type="video/mp4">
+    </videos>
