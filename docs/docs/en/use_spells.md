@@ -4,13 +4,17 @@ title: WizBoard User Manual
 ---
 # Use Spells
 
-In this guide, you shall uncover the artistry and finesse of wand usage, discovering the power that lies within the slender instrument that chooses you. Spells offer specialized magic tailored to  your needs. They're accessible both within the WizBaord the main app and keyboard.
+WizBoard is designed around the concept of **spell**, which are AI-powered tools that can help you with a variety of tasks. You may have heard of **Prompt Engineering**, a technique that allows you to use AI models to solve problems. **Spell** is an abstraction of this technique, but more flexible and powerful.
+
+Spells are accessible both within the WizBoard main app and keyboard. While you can use the spells in the keyboard, you can also use them in the main app to discover new spells and customize them.
 
 * **Main App**
     * Tap the *Gallery* section in the bottom, scroll up and down and tap *Show All* to find the perfect spell for you.
     * You can also type the spell name in the search bar on the top.
-    * Once determining the chosen one,  tap on the "+" icon of the selected one. You can also tap the spell itself, and tap *Add* to add it into your spells. 
-    * Tap the *Spells* section in the bottom, you will see all the seplls you added. Now tap a spell to open it up, now follow the instructions to speak magic now. Be prepared to immerse yourself in a world of incandescent sparks, mesmerizing charms, and the sheer delight of witnessing magic unfold at your fingertips.
+    * Once determining the chosen one,  tap on the "+" icon of the selected one. You can also tap the spell itself, and tap *Add* to add it into your spells.
+    ![Gallery](/assets/help/gallery_en.jpg)
+    * Tap the *Spells* section in the bottom, you will see all the spells you added. Now tap a spell to open it up, now follow the instructions to speak magic now. Be prepared to immerse yourself in a world of incandescent sparks, mesmerizing charms, and the sheer delight of witnessing magic unfold at your fingertips.
+    ![main_app_spell](/assets/help/main_app_spell_en.jpg)
 
 * **Keyboard**
     * Wherever you're typing via a keyboard (like in messaging apps, emails, notes, etc.), press and hold the globe symbol and choose WizBoard. If it's not visible, kindly consult the [setup guide](setup_keyboard) for keyboard configuration.
@@ -21,3 +25,6 @@ In this guide, you shall uncover the artistry and finesse of wand usage, discove
             * *None*: Displays the spell result within the keyboard frame.
             * *Rewrite*: Replaces content in the input field with the spell result.
             * *Append*: Adds the spell result to the existing content in the input field.
+    <video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="/assets/help/use_keyboard.mp4" type="video/mp4">
+    </videos>
