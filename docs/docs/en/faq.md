@@ -25,18 +25,19 @@ Yes, you can use the AI-native keyboard with any app that supports keyboard inpu
 
 Certainly! The main app of the AI-native keyboard allows you to engage in free-form conversations with ChatGPT, an AI language model. You can ask questions, seek advice, engage in creative writing, or simply have a chat. It provides a dynamic and interactive experience, expanding the possibilities beyond prompt-based interactions.
 
-5. Is the AI-native keyboard app available for other platforms?
+6. Is the AI-native keyboard app available for other platforms?
+
 Currently, the AI-native keyboard app is available exclusively for iOS devices. However, our team is actively exploring possibilities for expanding to other platforms in the future.
 
-6. Is the AI-native keyboard app free to use?
+7. Is the AI-native keyboard app free to use?
 
 No, you can see our [Subscription Plans](subscriptions) for more details. And also check out this topic on [Why we are not free](whynotfree)
 
-7. How can I provide feedback or report issues with the app?
+8. How can I provide feedback or report issues with the app?
 
 We value your feedback and strive to improve your experience. You can provide feedback, report any issues, or seek assistance by sending email to [wizboard.ai@gmail.com](mailto://wizboard.ai@gmail.com).
 
-8.  Is my data secure while using the AI-native keyboard app?
+9.  Is my data secure while using the AI-native keyboard app?
 Safeguarding your privacy and data security is of utmost importance to us. We follow industry best practices and employ robust security measures to protect your information. For more details on how we handle data, please refer to our [privacy policy](http://wizboard.github.io/privacy), which is accessible within the app.
 
 If you have any further questions, concerns, or suggestions, please feel free to reach out to our support team. We are dedicated to providing you with the best possible experience with our AI-native keyboard app.
