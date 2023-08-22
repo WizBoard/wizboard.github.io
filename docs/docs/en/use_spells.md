@@ -2,7 +2,7 @@
 layout: plain_content
 title: WizBoard User Manual
 ---
-# Use Spells
+# Accessing and Using Spells
 
 WizBoard is designed around the concept of **spell**, which are AI-powered tools that can help you with a variety of tasks. You may have heard of **Prompt Engineering**, a technique that allows you to use AI models to solve problems. **Spell** is an abstraction of this technique, but more flexible and powerful.
 
