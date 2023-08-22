@@ -19,6 +19,18 @@ Subject to your compliance with these Terms, we grant you a limited, non-exclusi
 
 You may not use the WizBoard app for any illegal, unauthorized or commercial purposes. You may not reproduce, duplicate, copy, sell, resell, or exploit any portion of the WizBoard app without our express written permission. You may not access the WizBoard app’s servers or manipulate the app in any way.
 
+## Subscription Services
+**Monthly Subscription**: By purchasing a Monthly Subscription, you agree to an initial and recurring Monthly Subscription fee at the then-current Monthly Subscription rate, and you accept responsibility for all recurring charges until you cancel your subscription. You may cancel your Monthly Subscription at any time, subject to the terms of our cancellation policy.  
+
+**Annual Subscription**: By purchasing an Annual Subscription, you agree to an initial pre-payment for one full year of service. After one year, your subscription will automatically renew on an annual basis at the then-current Annual Subscription rate, and you accept responsibility for all recurring charges until you cancel your subscription. You may cancel your Annual Subscription at any time, subject to the terms of our cancellation policy.  
+
+**Free Trail**: We offer a free trial for new users. If you cancel your subscription before the end of the free trial, you will not be charged for any additional months or years of service, and you will not receive a refund for the current month or year of service. If you do not cancel your subscription before the end of the free trial, you will be charged for the first month or year of service, and your subscription will automatically renew on a monthly or annual basis at the then-current Monthly or Annual Subscription rate, and you accept responsibility for all recurring charges until you cancel your subscription. You may cancel your Monthly or Annual Subscription at any time, subject to the terms of our cancellation policy.  
+
+**Cancellation Policy**: You may cancel your Monthly or Annual Subscription at any time. If you cancel your subscription, you will not be charged for any additional months or years of service, and you will not receive a refund for the current month or year of service.  
+You can managed your current subscription by going to *Settings > iTunes & App Store > Apple ID > View Apple ID > Subscriptions > WizBoard* on your iPhone. To cancel your subscription, select *Cancel Subscription*.  
+
+Note that App Store Provider's terms and conditions/EULA may also apply to your use of the WizBoard app. You can find the App Store Provider's terms and conditions/EULA in the App Store where you downloaded the WizBoard app.
+
 ## Third-Party Services and Content
 
 The WizBoard app may contain links to third-party websites or services, as well as content from third-parties. We do not control these third-party sites or services and are not responsible for their availability or content. Your use of third-party sites or services is at your own risk.
