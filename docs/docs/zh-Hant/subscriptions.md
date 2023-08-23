@@ -1,13 +1,13 @@
 ---
 layout: plain_content
-title: WizBoard User Manual
+title: WizBoard使用者手冊
 ---
-# Subscriptions
+# 訂閱
 
-We offer a variety of subscription options to cater to your needs:
+我們提供多種訂閱選項以滿足您的需求：
 
-* **Unlock Unlimited Possibilities**: Delivers a comprehensive user journey, showcasing top-notch AI capabilities, a rich spell gallery, and iCloud synchronization & backup.
-* **Latest and Greatest AI**: Access to the latest and most powerful AI.
-* **BYOK (Bring Your Own Key)**: Use your personalized key to unlock all the features.
+* **標準版**：提供全面的使用者體驗，展示頂級的AI能力、豐富的拼寫庫和iCloud同步與備份。
+* **專業版**：訪問最新和最強大的AI - GPT 4。
+* **BYOK（自帶密鑰）**：使用您自己的API密鑰來解鎖所有功能。
 
-Moreover, opting for sharing love with your family and annual plan, which entitle you to BIG discount!
+此外，選擇與您的家人分享愛以及年度計劃，都可以讓您享受到大幅度的折扣！
