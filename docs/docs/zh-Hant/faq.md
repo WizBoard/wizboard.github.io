@@ -44,6 +44,8 @@ title: WizBoard常見問題
 
   保護您的隱私和數據安全對我們至關重要。我們遵循行業最佳實踐，並採取強大的安全措施來保護您
 
+</details>
+
 ## 訂閱
 <details>
   <summary>點擊展開</summary>
