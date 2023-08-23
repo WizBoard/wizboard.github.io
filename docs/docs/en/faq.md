@@ -5,8 +5,6 @@ title: WizBoard FAQ
 # WizBoard FAQ
 
 ## General Questions
-<details>
-  <summary>Click to expand</summary>  
 
 - **How does the WizBoard work?**  
 
@@ -43,17 +41,12 @@ title: WizBoard FAQ
 
   Safeguarding your privacy and data security is of utmost importance to us. We follow industry best practices and employ robust security measures to protect your information. For more details on how we handle data, please refer to our [privacy policy](http://wizboard.github.io/privacy), which is accessible within the app.  
 
-</details>
-
 ## Subscription  
-<details>
-  <summary>Click to expand</summary>  
 
 - **How to choose subscription plans?**  
 
   Currently we offer **Standard**, **Pro** and **BYOK** plans with both Monthly and Annual subscriptions. For **Standard** and **Pro**, we also offer Family plans.   
   The **Standard** plans uses gpt-3.5-turbo which powers chatGPT. It should suit most of your use cases. But if you need higher quality answers, you can use GPT-4 with the **Pro** plan. It is more powerful, but more expensive and slower than gpt-3.5.  
   If you already have an OpenAI subscription, we can use your own OpenAI API key with the **BYOK** plan. You can learn how to get an API key on the OpenAI website.  
-</details>
 
 If you have any further questions, concerns, or suggestions, please feel free to reach out to our support team. We are dedicated to providing you with the best possible experience with our AI-native keyboard app.  
