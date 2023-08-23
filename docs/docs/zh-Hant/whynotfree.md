@@ -1,15 +1,15 @@
 ---
 layout: plain_content
-title: Why Not Free
+title: 為什麼不免費
 ---
-# Why Not Free
+# 為什麼不免費
 
-Thank you for downloading WizBoard! We're thrilled to have you on board and would like to take this moment to explain why we take a fee for our app.  
+感謝您下載並使用 WizBoard！我們希望在此向您解釋為什麼我們對我們的應用收費。
 
-The OpenAl API, which powers WizBoard, is a sophisticated tool that enables us to offer a top-notch experience. Unfortunately, it comes at a cost, which we must pass on to our users through a fee for the app. Every request made to the OpenAl API incurs a small charge, which we must pay.  
+WizBoard使用的OpenAl API的背後是生成型預訓練變換模型(GPT)。它是一款強大的AI工具，能使我們能夠提供一流的體驗。但使用它需要付出一定的成本。語言大模型(LLM)通常有巨量的參數，需要極快的GPU來運行。每一次的AI輸出都是GPU運行模型生成的。
 
-Additionally, we are dedicated to constantly improving and updating WizBoard to keep it relevant and useful to our users. This requires ongoing investment and development, which is funded by the fees we charge.  
+此外，我們致力於不斷改進和更新 WizBoard，以使我們的App給用戶提供最好的使用體驗，並持續創造價值。這需要持續的投資和開發，資金來源就是我們收取的費用。
 
-We understand that paying for an app may not be ideal for everyone, but we believe the value WizBoard provides justifies the cost. If you have any questions or concerns, please don't hesitate to reach out to us.  
+我們理解並非每個人都願意為應用付費，但我們相信WizBoard提供的價值可以證明這些費用是合理的。如果您有任何問題或疑慮，請隨時與我們聯繫。
 
-Once again, thank you for choosing WizBoard.
+再次感謝您選擇使用WizBoard。
