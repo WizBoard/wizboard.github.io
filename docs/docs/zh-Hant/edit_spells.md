@@ -1,17 +1,17 @@
 ---
 layout: plain_content
-title: WizBoard User Manual
+title: WizBoard 使用者手冊
 ---
-# Edit Spells
+# 編輯魔法指令
 
-To refine your spells further, take advantage of the *edit* feature. In the WizBoard main app's *Spells* tab, press and hold the desired spell, then select the *Edit* option. This allows you to:
+要進一步完善您的魔法指令，可以在 WizBoard 主應用的**魔法指令**標籤中，長按所需的咒語，選擇**編輯**便可進行如下操作：
 
-* Rename the spell
-* Modify the spell's prompt
-* Alter the display color associated with the spell
-* Dive into advanced edits:
-    * Activate chat context for a more conversational spell experience
-    * Adjust or add parameters within the spell
-    * Offer examples to clarify your spell's purpose (leveraging one-shot/few-shot learning techniques)
+* 重命名魔法指令
+* 修改魔法指令提示語
+* 修改魔法指令顯示顏色
+* 其他高級編輯功能還包括:
+    * 為更具對話性的魔法指令體驗提供聊天上下文
+    * 調整或在魔法指令中添加參數
+    * 提供示例以明確您的魔法指令結果（利用一次/少次學習技術）
 
-Once you've tweaked the settings, click *Try Spell* to engage with your modified spell. Don't forget to save your changes!
+一旦您調整了設置，點擊“試用指令”與您修改後的魔法指令互動（請記得保存您的更改）。
