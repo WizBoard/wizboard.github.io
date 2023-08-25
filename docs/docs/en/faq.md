@@ -47,6 +47,6 @@ title: WizBoard FAQ
 
   Currently we offer **Standard**, **Pro** and **BYOK** plans with both Monthly and Annual subscriptions. For **Standard** and **Pro**, we also offer Family plans.   
   The **Standard** plans uses gpt-3.5-turbo which powers chatGPT. It should suit most of your use cases. But if you need higher quality answers, you can use GPT-4 with the **Pro** plan. It is more powerful, but more expensive and slower than gpt-3.5.  
-  If you already have an OpenAI subscription, we can use your own OpenAI API key with the **BYOK** plan. You can learn how to get an API key on the OpenAI website.  
+  If you already have an OpenAI subscription, you can use your own OpenAI API key with the **BYOK** plan. You can learn how to get an API key on the OpenAI website.  
 
 If you have any further questions, concerns, or suggestions, please feel free to reach out to our support team. We are dedicated to providing you with the best possible experience with our AI-native keyboard app.  
