@@ -12,8 +12,10 @@ ________
 <br> -->
 
 ### `Initial Release`
-# **Version 1.0**
-Initial release of WizBoard App.
+# **Version 1.0.0**
+Initial release of WizBoard App.  
+
+2023-08-24
 
 <br>
 
