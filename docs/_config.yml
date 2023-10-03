@@ -21,9 +21,9 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : WizBoard Team                                
-your_link                                 : https://wizboard.github.io                     
+your_link                                 : mailto://wizboard.ai@gmail.com                     
 your_city                                 :                                
-email_address                             : wizboard.ai@gmail.com
+email_address                             :
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : WizboardT30599
@@ -36,27 +36,27 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   - title                                 : Seamless Integration
-    description                           : Easily integrate our app with your existing keyboard, allowing you to access prompt suggestions without switching between apps or interfaces.
+    description                           : Easily integrate our keyboard into your favorite apps and existing writing workflows.
     fontawesome_icon_name                 : keyboard
   
   - title                                 : Spell Centered Design
-    description                           : The keyboard and the main app is designed around the concept of prompt or <b>Spells</b>, which are AI-powered text transformation tools.
+    description                           : WizBoard is designed around the concept of prompt or <b>Spells</b>, which are AI-powered text transformation tools.
     fontawesome_icon_name                 : wand-magic-sparkles
 
   - title                                 : Personal Writing Assistant
-    description                           : Experience the convenience of having a personal writing assistant in your pocket. Our app supports you across various writing tasks, from emails and documents to social media posts and more.
+    description                           : Experience the convenience of having a personal writing assistant anywhere with an input box. From writing emails , analyzing documents to posting on social media and more.
     fontawesome_icon_name                 : pencil
     
   - title                                 : Ultimate Productivity Tool
-    description                           : Boost your productivity by utilizing an army of AI-powered tools. The capabilities is only limited by your imagination.
+    description                           : Boost your productivity by utilizing an army of AI-powered tools. The posibility is only limited by your imagination.
     fontawesome_icon_name                 : screwdriver-wrench
   
   - title                                 : Awesome Spell Gallery
-    description                           : Access a vast library of spells designed for different scenarios such as translation, travel planning, and more. Never struggle with writer's block again.
+    description                           : Access a vast library of awesome spells designed for unlimited number of scenarios such as translation, travel planning, and much more.
     fontawesome_icon_name                 : star
 
   - title                                 : Advanced Spell Editing
-    description                           : Custom spell creation and editing with powerful features like <b>parameterization</b>, <b>example messages</b>.
+    description                           : Custom spell creation and editing with powerful features like <b>Parameterization</b>, <b>Example Messages</b>.
     fontawesome_icon_name                 : hammer
 
   - title                                 : Multi-format Message Rendering
@@ -68,7 +68,7 @@ features                                  :
     fontawesome_icon_name                 : sync
   
   - title                                 : Various Subscriptions Plans
-    description                           : Pro, Family, and BYOK plans, with <b>free trial</b> for all.
+    description                           : Pro, Family, and BYOK plans, with <b>Free Trial</b> for all.
     fontawesome_icon_name                 : dollar-sign
 
   - title                                 : #Seamless Integration
