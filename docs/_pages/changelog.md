@@ -10,6 +10,28 @@ include_in_header: true
 
 ________
 <br> -->
+## 1.0.9
+2024-01-05
+#### What's New
+- New colors in message UI!  
+
+#### Bug Fixes
+- Fix a bug that input box is not cleared sometimes
+- Fix a bug that image may fail to generate for sharing
+
+<br>
+
+## 1.0.8
+2023-11-28
+#### What's New
+- Support GPT-4 turbo model
+- Enable Markdown in keyboard
+- Retry button for the last AI message
+- Fast scroll down button
+- Add text scan
+
+<br>
+
 ## 1.0.7
 2023-10-21
 #### What's New
